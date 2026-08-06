@@ -167,12 +167,15 @@ const homeContent = `
       <div class="button-row"><a class="button button-primary" href="/topics">Explore health topics</a><a class="button button-secondary" href="/about">How we work</a></div>
       <div class="trust-row"><span>Plain-language guides</span><span>Sources listed</span><span>Dates clearly shown</span></div>
     </div>
-    <div class="hero-visual" aria-hidden="true">
-      <div class="visual-card visual-card-main"><span class="mini-label">READ THE FULL LABEL</span><strong>Serving size</strong><span>Amount per serving</span><span>Other ingredients</span><span>Testing details</span></div>
-      <div class="visual-circle"><span>V</span></div>
-      <div class="visual-card visual-card-small"><strong>Evidence in context</strong><span>Population</span><span>Comparison</span><span>Endpoint</span></div>
-      <div class="visual-dots"></div>
-    </div>
+<div class="hero-image-wrap">
+  <img
+    class="hero-image"
+    src="/images/home/hero-velositol.webp"
+    alt="Velositol ingredient and protein nutrition illustration"
+    width="1200"
+    height="1000"
+  >
+</div>
   </div>
 </section>
 <section class="section section-white">
