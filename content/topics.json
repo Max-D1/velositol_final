@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "velositol-guides",
+    "name": "Velositol Guides",
+    "eyebrow": "Ingredient education",
+    "description": "Plain-language explainers on what Velositol is, how it appears in products, and how to evaluate different formats.",
+    "icon": "V",
+    "accent": "mint"
+  },
+  {
+    "slug": "protein-nutrition",
+    "name": "Protein Nutrition",
+    "eyebrow": "Food and routine",
+    "description": "Practical articles about dietary protein, meal patterns, training routines, and everyday nutrition decisions.",
+    "icon": "P",
+    "accent": "blue"
+  },
+  {
+    "slug": "supplement-literacy",
+    "name": "Supplement Literacy",
+    "eyebrow": "Read labels better",
+    "description": "Guides to serving sizes, branded ingredients, testing documents, claims, and supplement-label terminology.",
+    "icon": "S",
+    "accent": "sand"
+  },
+  {
+    "slug": "research-explained",
+    "name": "Research Explained",
+    "eyebrow": "Evidence in context",
+    "description": "Accessible summaries of study design, endpoints, limitations, and what research can—and cannot—show.",
+    "icon": "R",
+    "accent": "lavender"
+  }
+]

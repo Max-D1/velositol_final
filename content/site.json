@@ -1,0 +1,32 @@
+{
+  "name": "Velositol.co",
+  "shortName": "Velositol",
+  "url": "https://velositol.co",
+  "language": "en-US",
+  "tagline": "Clear, practical guidance on protein nutrition and supplement literacy.",
+  "description": "An educational health publication covering protein nutrition, supplement formats, branded ingredients, and evidence-aware wellness routines.",
+  "relationship": "independent",
+  "relationshipNote": "Velositol.co is an independent educational publication and is not affiliated with or endorsed by Nutrition21, LLC. Velositol® is a registered trademark of Nutrition21, LLC.",
+  "publisher": "Velositol.co Editorial Team",
+  "email": "editor@velositol.co",
+  "socialImage": "/assets/og-default.svg",
+  "logo": "/assets/logo.png",
+  "logoAlt": "Velositol logo",
+  "phone": "",
+  "addressLines": [],
+  "contactNote": "For corrections, source questions, and editorial inquiries.",
+  "homeKicker": "Velositol and protein nutrition",
+  "homeTitleLines": [
+    "Understand the label.",
+    "Question the claim.",
+    "Build a simpler routine."
+  ],
+  "aboutHeading": "Health information should be useful before it is persuasive.",
+  "aboutIntro": "We publish plain-language education about protein nutrition, supplement formats, branded ingredients, and research interpretation.",
+  "aboutPurposeTitle": "Help readers ask better questions",
+  "aboutPurposeParagraphs": [
+    "Supplement content often moves quickly from a study result to a buying conclusion. Velositol.co slows that process down. We explain what an ingredient is, how a product format works, what a label discloses, and which questions remain unanswered.",
+    "Our content is educational. It is not individualized medical advice and should not replace care from a qualified healthcare professional."
+  ],
+  "showSiteName": false
+}
