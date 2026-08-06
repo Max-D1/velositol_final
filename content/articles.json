@@ -20,7 +20,7 @@
     "featured": true,
     "readTime": "4 min read",
     "featuredImage": {
-      "enabled": false,
+      "enabled": true,
       "src": "/images/blog/what-is-velositol/featured.webp",
       "alt": "Velositol and MyoVera shown alongside a protein source in an editorial nutrition setting",
       "caption": "",
@@ -263,7 +263,7 @@
     "featured": true,
     "readTime": "4 min read",
     "featuredImage": {
-      "enabled": false,
+      "enabled": true,
       "src": "/images/blog/how-much-velositol-should-i-take/featured.webp",
       "alt": "Velositol capsules and a protein shake arranged for an article about dosage and safety",
       "caption": "",
@@ -515,7 +515,7 @@
     "featured": true,
     "readTime": "5 min read",
     "featuredImage": {
-      "enabled": false,
+      "enabled": true,
       "src": "/images/blog/where-can-i-buy-velositol/featured.webp",
       "alt": "Velositol supplement formats and a label checklist for choosing a licensed product",
       "caption": "",
