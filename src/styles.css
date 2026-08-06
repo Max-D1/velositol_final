@@ -56,6 +56,23 @@ button, input { font: inherit; }
 .button-secondary { background: white; border-color: var(--line); }
 .trust-row { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 32px; font-size: 13px; font-weight: 700; color: var(--muted); }
 .trust-row span::before { content: "✓"; color: var(--deep); margin-right: 7px; }
+.hero-image-wrap {
+  min-height: 470px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  max-width: 620px;
+  height: auto;
+  max-height: 560px;
+  object-fit: contain;
+  object-position: center;
+}
 .hero-visual { min-height: 470px; position: relative; }
 .visual-card { position: absolute; padding: 26px; background: white; border: 1px solid rgba(11,79,74,.12); border-radius: 24px; box-shadow: var(--shadow); }
 .visual-card-main { width: 310px; left: 22px; top: 70px; transform: rotate(-4deg); }
