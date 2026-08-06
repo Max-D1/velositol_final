@@ -196,6 +196,16 @@ code { padding: 2px 6px; border-radius: 5px; background: #e7efec; font-size: .9e
   .menu-button { display: block; }
   .hero-grid, .article-header-grid { grid-template-columns: 1fr; }
   .hero-grid { padding: 70px 0; }
+  .hero-image-wrap {
+  max-width: 650px;
+  width: 100%;
+  min-height: auto;
+  margin-inline: auto;
+}
+
+.hero-image {
+  max-width: 580px;
+}
   .hero-visual { max-width: 570px; width: 100%; margin-inline: auto; }
   .featured-grid { grid-template-columns: 1fr; }
   .featured-grid .article-card:not(.article-card-large) { grid-column: auto; }
@@ -214,6 +224,17 @@ code { padding: 2px 6px; border-radius: 5px; background: #e7efec; font-size: .9e
   .nav-row { min-height: 68px; }
   .hero-grid { min-height: auto; gap: 25px; }
   .hero h1 { font-size: 45px; }
+  .hero-image-wrap {
+  min-height: auto;
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 420px;
+  max-height: 420px;
+}
   .hero-visual { min-height: 390px; transform: scale(.9); transform-origin: top center; margin-bottom: -30px; }
   .visual-card-main { left: 0; }
   .visual-card-small { right: 0; }
