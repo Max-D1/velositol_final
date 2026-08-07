@@ -46,7 +46,7 @@ button, input { font: inherit; }
 .hero { overflow: hidden; background: linear-gradient(135deg, #eef7f3 0%, #f9fbfa 58%, #edf2f8 100%); border-bottom: 1px solid var(--line); }
 .hero-grid { min-height: 660px; display: grid; grid-template-columns: 1.08fr .92fr; align-items: center; gap: 70px; }
 .kicker, .eyebrow { display: inline-block; color: var(--deep); font-size: 12px; line-height: 1.2; font-weight: 850; text-transform: uppercase; letter-spacing: .13em; }
-.hero h1, .page-hero h1, .topic-hero h1, .article-header h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; letter-spacing: -.045em; line-height: 1.04; margin: 16px 0 22px; }
+.hero h1, .page-hero h1, .topic-hero h1, .article-header h1 { font-family: inherit; font-weight: 700; letter-spacing: -.045em; line-height: 1.04; margin: 16px 0 22px; }
 .hero h1 { font-size: clamp(45px, 6vw, 76px); }
 .hero-copy > p { max-width: 650px; color: var(--muted); font-size: 18px; }
 .button-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
