@@ -165,7 +165,7 @@ const homeContent = `
       <h1>${(site.homeTitleLines || ['Understand the label.', 'Question the claim.', 'Build a simpler routine.']).map((line) => escapeHtml(line)).join('<br>')}</h1>
       <p>${escapeHtml(site.description)}</p>
       <div class="button-row"><a class="button button-primary" href="/topics">Explore health topics</a><a class="button button-secondary" href="/about">How we work</a></div>
-      <div class="trust-row"><span>Evidence-based content</span><span>Easy to understand</span><span>Regularly updated</span></div>
+      <div class="trust-row"><span>Research-informed</span><span>Written for clarity</span><span>Sources cited</span></div>
     </div>
 <div class="hero-image-wrap">
   <img
