@@ -103,6 +103,10 @@ const baseHead = ({ title, description, canonical = '/', image = site.socialImag
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
   ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replaceAll('<', '\\u003c')}</script>` : ''}
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <script defer src="/_vercel/insights/script.js"></script>
 </head>`;
 
 const page = ({ title, description, canonical, active, content, type, jsonLd, image }) => `${baseHead({ title, description, canonical, type, jsonLd, image })}
